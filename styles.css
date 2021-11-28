@@ -1,10 +1,10 @@
-/*generics*/
+
 
 body {
     margin: 0;
 }
 
-/*utilities*/
+
 
 .container {
     width: 1080px;
@@ -22,8 +22,6 @@ body {
 w-50 {
 
 }
-
-/*header*/
 
 time {
     font-size: 10px;
@@ -72,4 +70,36 @@ tr {
 
 .even-row {
  background-color: white;   
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
+.related {
+    width: 210px;
+    height: 160px;
+    background-color: dodgerblue;
+    padding: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.related-title {
+    font-size: 18px;
+    color: ghostwhite;
+    margin: 15px ;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+#pc-img {
+    background-image: url('img/monitor.jpg');
+}
+
+#graph-img {
+    background-image: url('img/graph.jpg');
 }
