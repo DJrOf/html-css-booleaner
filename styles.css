@@ -1,0 +1,36 @@
+/*generics*/
+
+body {
+    margin: 0;
+}
+
+/*utilities*/
+
+.container {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.text-lightblue {
+    color: rgb(32, 156, 179);
+}
+
+.text-grey {
+    color: rgb(90, 86, 86);
+}
+
+/*header*/
+
+#main-header {
+    background: #4ea0ff;
+    height: 100px;
+    line-height: 100px;
+    background-image: url('img/pattern.png');
+    background-size: 30%;
+}
+
+#logo {
+    height: 50px;
+    vertical-align: middle;
+}
+
