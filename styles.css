@@ -19,7 +19,15 @@ body {
     color: rgb(90, 86, 86);
 }
 
+w-50 {
+
+}
+
 /*header*/
+
+time {
+    font-size: 10px;
+}
 
 #main-header {
     background: #4ea0ff;
@@ -34,3 +42,34 @@ body {
     vertical-align: middle;
 }
 
+article {
+    margin: 30px 0;
+}
+
+figure{
+    margin: 20px 0;
+}
+
+ul {
+padding-inline-start: 0;
+list-style-position: inside;
+
+}
+
+th {
+    text-align: left;
+    color: white;
+background-color: #20a9e5;
+}
+
+tr {
+    background-color: #b1e5f2;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.even-row {
+ background-color: white;   
+}
